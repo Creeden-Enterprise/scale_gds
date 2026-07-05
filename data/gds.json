@@ -1,0 +1,32 @@
+{
+  "id": "gds",
+  "label": "GDS",
+  "fullName": "Geriatric Depression Scale",
+  "abbr": "GDS",
+  "domain": "Depression — Geriatric",
+  "citation": "Brink TL, Yesavage JA, Lum O, et al. (1982). Screening tests for geriatric depression. Clin Gerontol. 1(1):37–43. https://dx.doi.org/10.1016/0022-3956(82)90033-4",
+  "url": "https://web.stanford.edu/~yesavage/GDS.html",
+  "license": "Public domain. Available free of charge for clinical and research use at Stanford University.",
+  "description": "A 30-item (or 15-item short form) yes/no self-report scale for depression in older adults. Designed to be simple to administer and minimize somatic items that can confound depression ratings in elderly patients.",
+  "scoring": "GDS-30: 0–9 normal; 10–19 mild depression; 20–30 severe depression. GDS-15: 0–4 normal; 5–8 mild; 9–11 moderate; 12–15 severe.",
+  "items": [
+    "Are you basically satisfied with your life? (N)",
+    "Have you dropped many of your activities and interests? (Y)",
+    "Do you feel that your life is empty? (Y)",
+    "Do you often get bored? (Y)",
+    "Are you in good spirits most of the time? (N)",
+    "Are you afraid that something bad is going to happen to you? (Y)",
+    "Do you feel happy most of the time? (N)",
+    "Do you often feel helpless? (Y)",
+    "Do you prefer to stay at home, rather than going out and doing new things? (Y)",
+    "Do you feel you have more problems with memory than most? (Y)",
+    "Do you think it is wonderful to be alive now? (N)",
+    "Do you feel pretty worthless the way you are now? (Y)",
+    "Do you feel full of energy? (N)",
+    "Do you feel that your situation is hopeless? (Y)",
+    "Do you think that most people are better off than you are? (Y)"
+  ],
+  "tier": "public",
+  "loinc_concept_id": 4159706,
+  "loinc_display": "Geriatric depression scale"
+}
